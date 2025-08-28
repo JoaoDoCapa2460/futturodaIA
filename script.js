@@ -8,10 +8,11 @@ cost perguntas = [
 {
     enunciado:
     "Oque voce acha sobre o chat GBT?"
-    alternativas:"bom", "ruim"
+    alternativas:
+    "bom" "ruim"
 
     enunciado:
-voce acha que ela vai mudar o mundo?
+"voce acha que ela vai mudar o mundo?"
 alternativas:{
     "muito provavel"
     "tenho certeza que não"
@@ -21,7 +22,6 @@ alternativas:{
         alternativas
         "sim" "não"
 
-    }
-
-}
+    },
+},
 
